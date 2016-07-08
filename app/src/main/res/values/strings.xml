@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Moviebuzz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Movies" />
+    <string name="add">ADD</string>
+    <string name="database">DATABASE</string>
+    <string name="title">TITLE :-  </string>
+    <string name="year">YEAR :-  </string>
+    <string name="genre">GENRE :-  </string>
+    <string name="runtime">RUNTIME :-  </string>
+    <string name="director">DIRECTOR :-  </string>
+    <string name="actors">ACTORS :-  </string>
+    <string name="plot">PLOT :-  </string>
+    <string name="imdb_rating">IMDB RATING :-  </string>
+    <string name="type">TYPE :-  </string>
+    <string name="language">LANGUAGE :-  </string>
+    <string name="rated">RATED :-  </string>
+</resources>
